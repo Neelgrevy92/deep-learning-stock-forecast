@@ -20,7 +20,7 @@ of a simple signal-based trading strategy.
 
 
 ⚙️ Installation
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+#[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/Neelgrevy92/deep-learning-stock-forecast/blob/main/notebook.ipynb)
 
 ```bash
