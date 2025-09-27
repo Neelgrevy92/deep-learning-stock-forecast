@@ -1,7 +1,7 @@
-# deep-learning-stock-forecast
-LSTM-based stock price prediction with PyTorch and a simple trading backtest strategy.
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+# deep-learning-stock-forecast [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/Neelgrevy92/deep-learning-stock-forecast/blob/main/notebook.ipynb)
+LSTM-based stock price prediction with PyTorch and a simple trading backtest strategy.
+
 
 Deep learning project applied to finance:  
 Forecasting **AAPL (Apple)** stock prices using an **LSTM model**, with a backtest 
