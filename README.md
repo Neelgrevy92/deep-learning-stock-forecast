@@ -20,6 +20,9 @@ of a simple signal-based trading strategy.
 
 
 ⚙️ Installation
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/Neelgrevy92/deep-learning-stock-forecast/blob/main/notebook.ipynb)
+
 ```bash
 git clone https://github.com/Neelgrevy92/LSTM-stock-prediction.git
 cd LSTM-stock-prediction
